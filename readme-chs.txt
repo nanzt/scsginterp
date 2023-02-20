@@ -6,3 +6,9 @@ result：         放置计算结果
 文件：
 插值流程说明文档.pdf：对插值过程进行了一个简单介绍，包括插值流程，所需数据，参考文献等
 
+关联论文：
+Chen Y, Nan Z*, Cao Z, Ou M, Feng K. A stepwise framework for interpolating land 
+surface temperature under cloudy conditions based on solar-cloud-satellite geometry. 
+ISPRS JournAL OF PHOTOGRAMMETRY AND REMOTE SENSING. 2023, 197: 292-308. https://doi.org/10.1016/j.isprsjprs.2023.02.004.
+
+Permalab团队 (https://permalab.science)
